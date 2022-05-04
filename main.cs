@@ -3,16 +3,16 @@
 //
 // This program does basic math
 
-using System; 
+using System;
 
 public class Program 
 {
 
     public static void Main(string[] args) 
     {
-       Console.WriteLine  ("5 × 3 = " + (5 * 3));
-       Console.WriteLine("5 + 3 + 5 + 3 = " + (5 + 3 + 5 + 3));
-      
-       Console.WriteLine("\nDone.");
+      Console.WriteLine  ("5 × 3 = " + (5 * 3));
+      Console.WriteLine("5 + 3 + 5 + 3 = " + (5 + 3 + 5 + 3));
+
+      Console.WriteLine("\nDone.");
     }
 }
