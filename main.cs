@@ -10,8 +10,9 @@ public class Program
 
     public static void Main(string[] args) 
     {
-      Console.WriteLine  ("5 × 3 = " + (5 * 3));
-      Console.WriteLine("5 + 3 + 5 + 3 = " + (5 + 3 + 5 + 3));
+      Console.WriteLine("The dimensions of a rectangle are 5 cm and 3 cm");
+      Console.WriteLine("5 × 3 = " + (5 * 3) + "cm²");
+      Console.WriteLine("5 + 3 + 5 + 3 = " + (5 + 3 + 5 + 3) + "cm");
 
       Console.WriteLine("\nDone.");
     }
